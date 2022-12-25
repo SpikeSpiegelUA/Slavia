@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - People
+  - SimplePeople
+  - Item
+  - Prefab
+  - VillageGuard
+  - VillageGuardArcher
+  - Can'tPass
+  - Civilian
+  - Solid
+  - RayStart
+  - SpecialOffset
+  - Summoned
+  - ShopIcon
+  - FreeShopIcon
+  - Crate
+  - Book
+  - Bandit
+  - Neutral
+  - Animal
+  - Fire
+  - Alchemy
+  - lb_bird
+  - Republican
+  - Royalist
+  - Undead
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Human
+  - Arrow
+  - ArrowPlayer
+  - ArrowGuard
+  - Guard
+  - IgnoreAll
+  - SelfIgnore
+  - SummonedArrow
+  - TriggerFraction
+  - Republican
+  - Royalist
+  - Undead
+  - Dead
+  - Bandit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: JournalFirst
+    uniqueID: 4241594541
+    locked: 0
