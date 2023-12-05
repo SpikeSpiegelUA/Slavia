@@ -1,4 +1,4 @@
-![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/72e40f22-7423-408c-bf91-3f96d57cc68c)# Slavia
+# Slavia
 Unity ARPG
 
 Open the Assets->Scripts folder to view code. All code was written by me. All asset creators are credited in the in-game credits.
