@@ -3,14 +3,14 @@ Unity ARPG
 
 Open the Assets->Scripts folder to view code. All code was written by me. All asset creators are credited in the in-game credits.
 
-Main Features:
--3 different classes with different playstyles, skills, dialogues and quests.
--Stealth system, simple combat system with an attack, power attack and block, simple archery and magic(with summoning!) systems, quest system with markers and dialogues with sometimes complex branches.
--Inventory system with cells(50 cells total). No item weight.
--Was integrated with the Google Play ServiceS, but then removed by me, so GPS is no longer working.
--Small open world without loading screens.
--Simple AI, that will attack hostile factions and the player.
--Save/Load system(of course).
+Main Features:__
+-3 different classes with different playstyles, skills, dialogues and quests.__
+-Stealth system, simple combat system with an attack, power attack and block, simple archery and magic(with summoning!) systems, quest system with markers and dialogues with sometimes complex branches.__
+-Inventory system with cells(50 cells total). No item weight.__
+-Was integrated with the Google Play ServiceS, but then removed by me, so GPS is no longer working.__
+-Small open world without loading screens.__
+-Simple AI, that will attack hostile factions and the player.__
+-Save/Load system(of course).__
 
 Some screenshots(I will add more in the future):
 
