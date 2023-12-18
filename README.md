@@ -1,7 +1,7 @@
 # Slavia
 Unity ARPG
 
-Open the Assets->Scripts folder to view code. All code was written by me. All asset creators are credited in the in-game credits.
+Open the Assets->Scripts folder to see the codebase. The whole codebase was written by me. All asset creators are credited in the in-game credits.
 
 Main Features:<br />
 -3 different classes with different playstyles, skills, dialogues and quests.<br />
