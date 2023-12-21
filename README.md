@@ -49,18 +49,23 @@ Dialogue:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/4a82613b-4372-4309-9247-cc60c3e37bcc)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/3a7a160e-0eed-4a1e-ba5b-354066c39971)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/2447aac1-a67e-4b2b-ab20-3266caa50eeb)
-[![DIALOGUE VIDEO EXAMPLE](https://img.youtube.com/vi/ODxLjolGLtc?si=AKLtLW2B_ULtsef9/0.jpg)](https://www.youtube.com/watch?v=ODxLjolGLtc?si=AKLtLW2B_ULtsef9)
+
 
 
 Merchant:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/ee31665b-c48f-4bd1-8b70-141aec1089c6)
 
-Dialogue/Combat/Levelling Up example:
-[<img src="https://img.youtube.com/vi/87A5CqA3FUM?si=PrUj0P6v8fXZFean/0.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/87A5CqA3FUM?si=PrUj0P6v8fXZFean)
+Dialogue/Combat/Levelling Up example:</br>
+https://youtu.be/ODxLjolGLtc?si=unf8m7q2jgor1617
 
+Dialogue example:</br>
+https://www.youtube.com/watch?v=87A5CqA3FUM
 
+Archery example:</br>
+https://www.youtube.com/watch?v=HClXywWA_Aw
 
+Combat/Leveling up example:</br>
+https://youtu.be/Uql9Ch8F0Pk?si=bPt7WXdyAjJpK09e
 
 
 
