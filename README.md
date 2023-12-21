@@ -25,6 +25,7 @@ Main menu:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/0bc1c196-76da-4a01-89d3-88506c03c0e5)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/ac3073b1-b5f7-4878-b5a8-3029e1ea9712)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/16db3432-f33c-4520-88fd-f3edafc8dcb3)
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/1701f1ac-534a-466b-be21-7eff2e0381b8)
 
 Prologue:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/e776c7e6-e83a-4a5d-8daf-3bdf7b7c3273)
@@ -43,6 +44,9 @@ Quests:
 
 HUD:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/64f1f601-a9dc-4c74-973e-0672d640d2ac)
+
+Stealth:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/762d436e-489c-4c9b-a645-e8430ce0ec45)
 
 Dialogue:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/fa1b04b5-56d8-4a8f-8316-a014fedc9975)
@@ -64,8 +68,8 @@ https://www.youtube.com/watch?v=87A5CqA3FUM
 Archery example:</br>
 https://www.youtube.com/watch?v=HClXywWA_Aw
 
-Combat/Leveling up example:</br>
-https://youtu.be/Uql9Ch8F0Pk?si=bPt7WXdyAjJpK09e
+Save/Load example:</br>
+https://www.youtube.com/watch?v=xMq8y1Rpq6o
 
 
 
