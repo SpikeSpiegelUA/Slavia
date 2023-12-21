@@ -55,6 +55,9 @@ Dialogue:
 Merchant:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/ee31665b-c48f-4bd1-8b70-141aec1089c6)
 
+Dialogue/Combat/Levelling Up example:
+[![DIALOGUE/COMBAT/LEVELLING UP EXAMPLE](https://img.youtube.com/vi/87A5CqA3FUM?si=eFSHibIoex_uFiTE/0.jpg)](https://www.youtube.com/watch?v=87A5CqA3FUM?si=eFSHibIoex_uFiTE)
+
 
 
 
