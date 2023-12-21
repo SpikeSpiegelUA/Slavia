@@ -1,7 +1,7 @@
 # Slavia
 Unity ARPG
 
-Open the Assets->Scripts folder to see the codebase. The entire codebase was written by me. All asset creators are credited in the in-game credits.
+Open the Assets->Scripts folder to see the codebase. The game was developed in the summer of 2019. The entire codebase was written by me. All asset creators(Unity Asset Store) are credited in the in-game credits.
 
 Main Features:<br />
 -3 different classes with different playstyles, skills, dialogues and quests.<br />
@@ -20,11 +20,48 @@ Some screenshots from the Play Store page:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/e166000e-d39d-4109-a539-55a2b18b8f65)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/c3f84585-95e6-4b84-b865-1ed5fd5adc2c)
 
-Some screenshots of a gameplay taken by me(I am running it on PC, while it's been developed for Android, also it's been 4 years since I developed it, so there may be some mistakes in UI or gameplay).
+Some screenshots of a gameplay taken by me(I am running it on PC, while it's been developed for Android, also it's been 4 years since I developed it, so there may be some mistakes in UI or gameplay).<br />
 Main menu:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/0bc1c196-76da-4a01-89d3-88506c03c0e5)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/ac3073b1-b5f7-4878-b5a8-3029e1ea9712)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/16db3432-f33c-4520-88fd-f3edafc8dcb3)
+
+Prologue:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/e776c7e6-e83a-4a5d-8daf-3bdf7b7c3273)
+
+Inventory:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/35742236-60fb-4368-a01a-3645291dc026)
+
+Stats:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/aedd9a54-c5e1-403d-a5e8-68f987ad1ada)
+
+Skills:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/5dc89510-0aa8-4363-b661-cdc47bf4b82c)
+
+Quests:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/37e9c06e-a727-4f35-9296-231224db883c)
+
+HUD:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/64f1f601-a9dc-4c74-973e-0672d640d2ac)
+
+Dialogue:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/fa1b04b5-56d8-4a8f-8316-a014fedc9975)
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/4a82613b-4372-4309-9247-cc60c3e37bcc)
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/3a7a160e-0eed-4a1e-ba5b-354066c39971)
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/2447aac1-a67e-4b2b-ab20-3266caa50eeb)
+
+Merchant:
+![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/83e23fa5-ccda-45f5-aa04-006b436544cb)
+
+
+
+
+
+
+
+
+
+
 
 
 
