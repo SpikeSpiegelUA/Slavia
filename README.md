@@ -49,7 +49,7 @@ Dialogue:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/4a82613b-4372-4309-9247-cc60c3e37bcc)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/3a7a160e-0eed-4a1e-ba5b-354066c39971)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/2447aac1-a67e-4b2b-ab20-3266caa50eeb)
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ODxLjolGLtc?si=AKLtLW2B_ULtsef9/0.jpg)](https://www.youtube.com/watch?v=ODxLjolGLtc?si=AKLtLW2B_ULtsef9)
+[![DIALOGUE VIDEO EXAMPLE](https://img.youtube.com/vi/ODxLjolGLtc?si=AKLtLW2B_ULtsef9/0.jpg)](https://www.youtube.com/watch?v=ODxLjolGLtc?si=AKLtLW2B_ULtsef9)
 
 
 Merchant:
