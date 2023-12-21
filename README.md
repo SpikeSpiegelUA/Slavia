@@ -56,8 +56,8 @@ Merchant:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/ee31665b-c48f-4bd1-8b70-141aec1089c6)
 
 Dialogue/Combat/Levelling Up example:
-(https://i.ytimg.com/vi/87A5CqA3FUM?si=VfCuZrhxBH0enkcS/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=87A5CqA3FUM?si=VfCuZrhxBH0enkcS "Now in Android: 55") 
+[<img src="https://img.youtube.com/vi/87A5CqA3FUM?si=PrUj0P6v8fXZFean/0.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/87A5CqA3FUM?si=PrUj0P6v8fXZFean)
 
 
 
