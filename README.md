@@ -20,7 +20,7 @@ Some screenshots from the Play Store page:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/e166000e-d39d-4109-a539-55a2b18b8f65)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/c3f84585-95e6-4b84-b865-1ed5fd5adc2c)
 
-Some screenshots of a gameplay taken by me(I am running it on PC, while it's been developed for Android, also it's been 4 years since I developed it, so there may be some mistakes in UI or gameplay).<br />
+Some screenshots of a gameplay taken by me(I am running it on PC, while it's been developed for Android, also it's been 4 years since I developed it, so there may be some mistakes in UI or gameplay that won't be fixed).<br />
 Main menu:
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/0bc1c196-76da-4a01-89d3-88506c03c0e5)
 ![image](https://github.com/SpikeSpiegelUA/Slavia/assets/96143029/ac3073b1-b5f7-4878-b5a8-3029e1ea9712)
